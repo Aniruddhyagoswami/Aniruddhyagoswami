@@ -73,24 +73,6 @@ Interested in performance-oriented UI engineering and integrating 3D experiences
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Aniruddhyagoswami&show_icons=true&hide_title=true" />
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhyagoswami&layout=compact" />
-
-</div>
-
----
-
-## Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddhyagoswami" />
-</div>
-
----
 
 ## Contact
 
