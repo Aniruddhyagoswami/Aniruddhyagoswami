@@ -6,10 +6,10 @@ Software Developer | Full-Stack Web Development | 3D Web Interfaces | BCA Studen
 
 ## Profile
 
-I am a software developer with experience in building modern web applications and interactive user interfaces.  
-My work focuses on frontend architecture, predictable state management, API-driven systems, and emerging 3D web technologies.
+Software developer focused on building modern, scalable web applications and interactive user interfaces.  
+Experienced in frontend architecture, state management, API-driven systems, and web-based 3D rendering.
 
-I actively explore the intersection of performance-oriented UI development and interactive 3D experiences on the web.
+Interested in performance-oriented UI engineering and integrating 3D experiences into production web applications.
 
 ---
 
@@ -50,9 +50,9 @@ I actively explore the intersection of performance-oriented UI development and i
 ### Tools & Workflow
 - Git
 - GitHub
-- API Integration
 - Component-driven development
 - Modular UI architecture
+- API integration
 
 ---
 
@@ -60,13 +60,37 @@ I actively explore the intersection of performance-oriented UI development and i
 
 - Scalable React application architecture  
 - Predictable client-side state management  
-- UI consistency and design systems  
+- UI consistency and reusable component systems  
 - Web-based 3D rendering and interaction  
-- Secure backend integration and APIs  
+- Secure backend integration and REST APIs  
 
 ---
 
+## GitHub Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Aniruddhyagoswami&show_icons=true&hide_title=true" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhyagoswami&layout=compact" />
+
+</div>
+
+---
+
+## Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddhyagoswami" />
+</div>
+
+---
 
 ## Contact
 
