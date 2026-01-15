@@ -75,9 +75,7 @@ I actively explore the intersection of performance-oriented UI development and i
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddhyagoswami&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhyagoswami&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddhyagoswami&theme=radical)
 
 ---
 
