@@ -66,18 +66,7 @@ I actively explore the intersection of performance-oriented UI development and i
 
 ---
 
-## GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## GitHub Statistics
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddhyagoswami&theme=radical)
-
----
 
 ## Contact
 
